@@ -51,4 +51,4 @@ The dashboard draws data from two primary sources:
 - Data integration from various sources like Excel/CSV files, MySQL database, etc.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/apoorvd)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvd)
